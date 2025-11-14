@@ -1,7 +1,7 @@
 {
   "show_dialog": true,
-  "title": "New Update Available",
-  "message": "Please update your application!",
-  "button_text": "Update",
+  "title": "Telegram",
+  "message": "Join Telegram New Update Ablabel",
+  "button_text": "Join Now",
   "button_url": "https://t.me/hakemaster121"
 }
