@@ -1,5 +1,5 @@
 {
-  "show_dialog": false,
+  "show_dialog": true,
   "title": "New Update Available",
   "message": "Please update your application!",
   "button_text": "Update",
